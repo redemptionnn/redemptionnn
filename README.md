@@ -1,16 +1,18 @@
-## Hi there 👋
+Info about me! 👋
 
-<!--
-**redemptionnn/redemptionnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🚀16yo passionate programmer 
+-🌐 HTML for web development 
+-🐍 Python for scripting and backend development 
+-💡 Open to Collaborate
 
-Here are some ideas to get you started:
+🌟 Goals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Build and deploy my first complete web app
+ Contribute to an open-source project
+ Learn JavaScript to complement my web dev skills
+
+📧 Reach me on
+
+  🌍 GitHub: redemptionnn
+  📫 Discord: rdemptionn
+
