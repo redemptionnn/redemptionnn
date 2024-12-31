@@ -1,6 +1,6 @@
-Info about me! 👋
+Info about me.
 
--🚀16yo passionate programmer  
+-💻 16yo programmer  
 
 -🌐 HTML for web development 
 
@@ -17,7 +17,7 @@ Info about me! 👋
  
  Learn JavaScript to complement my web dev skills
 
-📧 Reach me on
+📲 Reach me on
 
   🌍 GitHub: redemptionnn
   
