@@ -9,7 +9,7 @@ Info about me.
 -💡 Open to Collaborate
 
 
-🌟 Goals
+🌟 Goals:
 
  Build and deploy my first complete web app
  
@@ -17,7 +17,7 @@ Info about me.
  
  Learn JavaScript to complement my web dev skills
 
-📲 Reach me on
+📲 Reach me on:
 
   🌍 GitHub: redemptionnn
   
