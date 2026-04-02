@@ -1,21 +1,15 @@
 Info about me.
 
--💻 16yo programmer  
+-💻 17yo IT student 
 
--🌐 HTML for web development 
-
--🐍 Python for scripting and backend development 
+-🌐 learning AI
 
 -💡 Open to Collaborate
 
 
 🌟 Goals:
 
- Build and deploy my first complete web app
- 
- Contribute to an open-source project
- 
- Learn JavaScript to complement my web dev skills
+  Mil by 20
 
 📲 Reach me on:
 
