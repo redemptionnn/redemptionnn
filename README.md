@@ -1,10 +1,10 @@
-Info about me.
+🌍Info about me.
 
--💻 17yo IT student 
+- 17yo IT student 
 
--🌐 learning AI
+- learning AI
 
--💡 Open to Collaborate
+- Open to Collaborate
 
 
 🌟 Goals:
@@ -13,7 +13,7 @@ Info about me.
 
 📲 Reach me on:
 
-  🌍 GitHub: redemptionnn
+   GitHub: redemptionnn
   
-  📫 Discord: rdemptionn
+   Discord: rdemptionn
 
