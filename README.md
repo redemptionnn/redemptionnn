@@ -7,13 +7,3 @@
 - Open to Collaborate
 
 
-🌟 Goals:
-
-  Mil by 20
-
-📲 Reach me on:
-
-   GitHub: redemptionnn
-  
-   Discord: rdemptionn
-
