@@ -1,8 +1,10 @@
 🌍Info about me.
 
-- 17yo IT student 
+- 18yo IT student 
 
 - learning AI
+
+- building apps that should already exist.
 
 - Open to Collaborate
 
